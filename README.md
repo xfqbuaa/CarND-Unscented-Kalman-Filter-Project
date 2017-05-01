@@ -2,6 +2,13 @@
 Self-Driving Car Engineer Nanodegree Program
 
 ---
+## RMSE results 
+New data "obj_pose-laser-radar-synthetic-input.txt".
+![ukf rmse](./ukf_rmse.png)
+RMSE less than requried  [.09, .10, .40, .30].
+
+## Python to show NIS and explore data
+plotNIS.ipynb
 
 ## Dependencies
 
