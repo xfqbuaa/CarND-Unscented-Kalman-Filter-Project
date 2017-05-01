@@ -5,7 +5,11 @@ Self-Driving Car Engineer Nanodegree Program
 ## RMSE results 
 New data "obj_pose-laser-radar-synthetic-input.txt".
 ![ukf rmse](./ukf_rmse.png)
-RMSE less than requried  [.09, .10, .40, .30].
+RMSE less than requried  [.09, .10, .40, .30] and also lower than EKF RMSE.
+* 0.0972256
+* 0.0853761
+* 0.450855
+* 0.439588
 
 ## Python to show NIS and explore data
 plotNIS.ipynb
